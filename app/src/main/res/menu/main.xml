@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="example.javatpoint.com.kotlinoptionsmenu.MainActivity">
+    <item
+        android:id="@+id/delete"
+        android:icon="@drawable/delete_24"
+        android:title="Delete"/>
+    <item
+        android:id="@+id/update"
+        android:icon="@drawable/update_24"
+        android:title="Update"
+        />
+
+</menu>
